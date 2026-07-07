@@ -164,15 +164,20 @@
   <!-- Final Download CTA -->
   <section class="cta-section" id="download">
     <div class="container">
-      <h2>Put your music back on your machine.</h2>
-      <p>Free, open source, MIT licensed.</p>
-      <div style="margin-top: 2.5rem;">
-        <a href="https://github.com/shubham-pathak1/orca/releases" class="btn btn-primary" target="_blank" rel="noopener noreferrer" id="cta-download-btn">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M0 3.449L9.75 2.1v9.451H0m10.949-9.602L24 0v11.4H10.949M0 12.6h9.75v9.451L0 20.699M10.949 12.6H24V24l-13.051-1.851"/>
-          </svg>
-          Download Installer
-        </a>
+      <div class="cta-inner">
+        <div class="cta-text">
+          <h2>Put your music back<br/>on your machine.</h2>
+          <p>Free, open source, MIT licensed.</p>
+          <div style="margin-top: 2rem;">
+            <a href="https://github.com/shubham-pathak1/orca/releases" class="btn btn-primary" target="_blank" rel="noopener noreferrer" id="cta-download-btn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M0 3.449L9.75 2.1v9.451H0m10.949-9.602L24 0v11.4H10.949M0 12.6h9.75v9.451L0 20.699M10.949 12.6H24V24l-13.051-1.851"/>
+              </svg>
+              Download Installer
+            </a>
+          </div>
+        </div>
+        <img src="/screenshots/footer.gif" alt="" class="cta-gif" aria-hidden="true" />
       </div>
     </div>
   </section>
@@ -181,9 +186,34 @@
 <footer id="footer-main">
   <div class="container footer-flex">
     <span class="footer-copyright">&copy; {new Date().getFullYear()} orca · MIT License</span>
+
+    <div class="footer-tech">
+      <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" class="tech-link" title="Rust">
+        <img src="/screenshots/rust.png" alt="Rust" />
+        <span>Rust</span>
+      </a>
+      <a href="https://tauri.app/" target="_blank" rel="noopener noreferrer" class="tech-link" title="Tauri">
+        <img src="/screenshots/tauri.png" alt="Tauri" />
+        <span>Tauri</span>
+      </a>
+      <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer" class="tech-link" title="Svelte">
+        <img src="/screenshots/svelte.png" alt="Svelte" />
+        <span>Svelte</span>
+      </a>
+      <a href="https://sqlite.org/" target="_blank" rel="noopener noreferrer" class="tech-link" title="SQLite">
+        <img src="/screenshots/sqlite.png" alt="SQLite" />
+        <span>SQLite</span>
+      </a>
+      <a href="https://lrclib.net/" target="_blank" rel="noopener noreferrer" class="tech-link" title="LRCLIB">
+        <img src="/screenshots/lrclib.png" alt="LRCLIB" />
+        <span>LRCLIB</span>
+      </a>
+    </div>
+
     <div class="footer-links">
       <a href="https://github.com/shubham-pathak1/orca" class="footer-link" target="_blank" rel="noopener noreferrer" id="footer-repo-link">GitHub</a>
       <a href="https://github.com/shubham-pathak1/orca/issues" class="footer-link" target="_blank" rel="noopener noreferrer" id="footer-issues-link">Issues</a>
     </div>
   </div>
 </footer>
+
