@@ -1,8 +1,11 @@
 <script>
   import { onMount } from 'svelte';
+  import { inject } from '@vercel/analytics';
   
   onMount(() => {
     // Initialize any required functionality
+    // Initialize Vercel Analytics
+    inject();
   });
 </script>
 
