@@ -25,7 +25,7 @@
       
       <h1>listen to your music offline.</h1>
       <p>
-        Orca is a fast, beautifully simple music player for Windows. No subscriptions, no ads, just you and your music.
+        Orca is a clean, fast music player for Windows. No subscriptions, no ads, just you and your music.
       </p>
       <div class="hero-actions">
         <!-- Download: Windows icon -->
@@ -70,7 +70,7 @@
 
       <!-- Block 2: Albums -->
       <div class="showcase-block" id="block-albums">
-        <div class="ambient-glow" style="background: rgba(59, 130, 246, 0.4);"></div>
+        <div class="ambient-glow" style="background: rgba(239, 68, 68, 0.4);"></div>
         <div class="block-layout">
           <div class="block-text">
             <h2 class="block-title">Organized by album.</h2>
@@ -106,10 +106,10 @@
 
       <!-- Block 4: Synced Lyrics -->
       <div class="showcase-block" id="block-lyrics">
-        <div class="ambient-glow" style="background: rgba(16, 185, 129, 0.35);"></div>
+        <div class="ambient-glow" style="background: rgba(139, 92, 246, 0.4);"></div>
         <div class="block-layout">
           <div class="block-text">
-            <h2 class="block-title">Sing along with synced lyrics.</h2>
+            <h2 class="block-title">Synced lyrics.</h2>
             <p class="block-description">
               Orca finds and displays time-coded lyrics that scroll automatically with your music. Click on any line to jump straight to that part of the song.
             </p>
@@ -127,7 +127,7 @@
         <div class="ambient-glow" style="background: rgba(239, 68, 68, 0.35);"></div>
         <div class="block-layout">
           <div class="block-text">
-            <h2 class="block-title">Uncluttered playback window.</h2>
+            <h2 class="block-title">Immersive playback.</h2>
             <p class="block-description">
               Expand the player to see high-resolution artwork on an ambient background that matches the colors of the album cover.
             </p>

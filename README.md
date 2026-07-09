@@ -1,6 +1,6 @@
 # Orca Website
 
-The landing page for Orca, a fast, beautifully simple local music player for Windows.
+The landing page for Orca, a clean, fast local music player for Windows.
 
 Live at [orca-music.vercel.app](https://orca-music.vercel.app).
 
