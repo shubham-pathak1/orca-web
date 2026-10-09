@@ -1,3 +1,12 @@
+<script lang="ts">
+  import { onMount } from 'svelte';
+  import { inject } from '@vercel/analytics';
+
+  onMount(() => {
+    inject();
+  });
+</script>
+
 <svelte:head>
   <title>Orca - Local Music Player</title>
 </svelte:head>
