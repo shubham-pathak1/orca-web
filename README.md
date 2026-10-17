@@ -1,12 +1,12 @@
 # Orca Website
 
-The landing page for Orca, a clean, fast local music player for Windows.
+The landing page for Orca, a minimal native music player for Windows built with Rust and Slint.
 
 Live at [orca-music.vercel.app](https://orca-music.vercel.app).
 
 ## Tech Stack
 
-This website is built with:
+The desktop player uses Rust and Slint. This website is built with:
 - **Svelte** (Framework)
 - **TypeScript** (Language)
 - **Vite** (Build tool)

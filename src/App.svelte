@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-  <title>Orca - Local Music Player</title>
+  <title>Orca - Minimal Music Player for Windows | Rust + Slint</title>
 </svelte:head>
 
 <a href="#main-content" class="skip-link">Skip to content</a>
@@ -27,7 +27,7 @@
       </div>
       
       <p>
-        A free, open-source local music player.
+        A minimal, open-source music player for Windows. Built with Rust and Slint.
       </p>
       <div class="hero-actions">
         <!-- Download: Windows icon -->
