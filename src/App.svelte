@@ -64,7 +64,7 @@
           </div>
           <div class="block-media-container">
             <div class="block-media">
-              <img src="https://ik.imagekit.io/shubhampathak/orca-web/library.png" alt="Orca library in grid view with album artwork" width="1917" height="1078" loading="lazy" decoding="async" />
+              <img src="https://ik.imagekit.io/shubhampathak/orca-web/library.png?v=20261026" alt="Orca library in grid view with album artwork" width="1917" height="1078" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -82,7 +82,7 @@
           </div>
           <div class="block-media-container">
             <div class="block-media">
-              <img src="https://ik.imagekit.io/shubhampathak/orca-web/album.png" alt="Orca album page with tracks and related albums" width="1917" height="1078" loading="lazy" decoding="async" />
+              <img src="https://ik.imagekit.io/shubhampathak/orca-web/album.png?v=20261026" alt="Orca album page with tracks and related albums" width="1917" height="1078" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
           </div>
           <div class="block-media-container">
             <div class="block-media">
-              <img src="https://ik.imagekit.io/shubhampathak/orca-web/artist.png" alt="Orca artist page with songs and albums" width="1917" height="1078" loading="lazy" decoding="async" />
+              <img src="https://ik.imagekit.io/shubhampathak/orca-web/artist.png?v=20261026" alt="Orca artist page with songs and albums" width="1917" height="1078" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@
           </div>
           <div class="block-media-container">
             <div class="block-media">
-              <img src="https://ik.imagekit.io/shubhampathak/orca-web/full_player_lyrics.png" alt="Orca full player with artwork, an ambient background, and synced lyrics" width="1917" height="1078" loading="lazy" decoding="async" />
+              <img src="https://ik.imagekit.io/shubhampathak/orca-web/fullplayer_lyrics.png?v=20261026" alt="Orca full player with artwork, an ambient background, and synced lyrics" width="1917" height="1078" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -136,7 +136,7 @@
           </div>
           <div class="block-media-container">
             <div class="block-media">
-              <img src="https://ik.imagekit.io/shubhampathak/orca-web/metadata_editor.png" alt="Orca metadata editor with cover controls, song tags, and lyrics" width="1917" height="1078" loading="lazy" decoding="async" />
+              <img src="https://ik.imagekit.io/shubhampathak/orca-web/metadata_editor.png?v=20261026" alt="Orca metadata editor with cover controls, song tags, and lyrics" width="1917" height="1078" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
